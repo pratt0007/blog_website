@@ -1,4 +1,4 @@
-# blog_website
+# BlogHub (Blog Application)
 ## Introduction
 - This is a simple blog application developed using HTML/CSS/Bootstrap for Frontend and Python/Django for Backend. It allows users to create, read, update, and delete blog posts.
 ## Features
