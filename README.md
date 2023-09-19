@@ -9,7 +9,7 @@
 - User profiles
 
 ## Technologies Used
-Frontend: HTML/CSS/Bootstrap
-Backend: Django/Python
-Database: PostgreSQL
-Deployment: Railway
+- Frontend: HTML/CSS/Bootstrap
+- Backend: Django/Python
+- Database: PostgreSQL
+- Deployment: Railway
